@@ -1,0 +1,13 @@
+# Template file for 'libspatialite'
+pkgname=libspatialite
+version=4.3.0a
+revision=1
+build_style=gnu-configure
+hostmakedepends="pkg-config geos-devel"
+makedepends="sqlite-devel zlib-devel proj-devel freexl-devel geos-devel libxml2-devel"
+short_desc="Library extending SQLite to support Spacial SQL capabilities"
+maintainer="Robert Lowry <bobertlo@gmail.com>"
+license="GPL-3.0-or-later"
+homepage="https://www.gaia-gis.it/fossil/libspatialite/index"
+distfiles="http://www.gaia-gis.it/gaia-sins/libspatialite-${version}.tar.gz"
+checksum=88900030a4762904a7880273f292e5e8ca6b15b7c6c3fb88ffa9e67ee8a5a499
