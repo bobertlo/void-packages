@@ -1,0 +1,6 @@
+2021-12-04:
+- perl: cyclic dependency on build root, building manually
+- gawk: do_check fails './localenl.sh: line 39: warning: setlocale: LC_ALL: cannot change locale (en_US.ISO-8859-1): No such file or directory'
+- diabled checks for now ...
+- mdocml: upstream down. got source from https://fossies.org/linux/misc/mandoc-1.14.6.tar.gz
+- libxslt-python: 'mv: cannot stat '/destdir//libxslt-1.1.34/usr/lib/python*': No such file or directory'
