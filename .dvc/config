@@ -1,0 +1,2 @@
+['remote "hermes"']
+    url = ssh://robert@hermes:/home/robert/repo/localbuild.dvc
