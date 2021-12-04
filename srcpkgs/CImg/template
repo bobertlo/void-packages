@@ -1,6 +1,6 @@
 # Template file for 'CImg'
 pkgname=CImg
-version=2.9.4
+version=2.9.9
 revision=1
 wrksrc="CImg-v.${version}"
 depends="libgraphicsmagick-devel fftw-devel"
@@ -9,7 +9,7 @@ maintainer="Robert Lowry <bobertlo@gmail.com>"
 license="CECILL-2.0, CECILL-C"
 homepage="http://cimg.eu"
 distfiles="https://github.com/dtschump/CImg/archive/v.${version}.tar.gz"
-checksum=1460eb3f1e57bc2c5f82507cd1c0e513c821ee7c48552dd6f90eabb696de8424
+checksum=94c27f697826bff965ebbccb50e3e45f1f5602400e74ed586e77d9b4dcbc64d2
 
 do_install() {
 	vlicense Licence_CeCILL_V2-en.txt
