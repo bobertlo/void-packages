@@ -1,6 +1,6 @@
 wdir: hostdir/binpkgs
 outs:
-- md5: 3e70d3fccef6662e0491a4de383a623e.dir
-  size: 583042735
-  nfiles: 390
+- md5: 6407974777c40f58c38fc7d8e0b8fc94.dir
+  size: 751517717
+  nfiles: 578
   path: localbuild
