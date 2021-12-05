@@ -4,3 +4,6 @@
 - diabled checks for now ...
 - mdocml: upstream down. got source from https://fossies.org/linux/misc/mandoc-1.14.6.tar.gz
 - libxslt-python: 'mv: cannot stat '/destdir//libxslt-1.1.34/usr/lib/python*': No such file or directory'
+  - fixed with zap ...
+2021-12-05:
+- base-system built
